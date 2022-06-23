@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using HouseApi.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace HouseApi.Data
 {

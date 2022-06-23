@@ -1,5 +1,6 @@
 global using HouseApi.Data;
 global using Microsoft.EntityFrameworkCore;
+using HouseApi.Helpers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +11,7 @@ builder.Services.AddDbContext<DataContext>(options =>
 {
     options.UseSqlite(builder.Configuration.GetConnectionString("Defaultconnection"));
 });
+builder.Services.AddAutoMapper(typeof(AutoMapperProfiles).Assembly);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

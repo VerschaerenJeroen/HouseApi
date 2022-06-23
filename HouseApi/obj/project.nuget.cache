@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jmpl1KncBUPfhHsxOH/hEZpOR8PHqZpN2r1JDswx2WLQ2XrUs+ggIFyDRk59dEAbV+BA80hThFmWtuBHWyZHOw==",
+  "dgSpecHash": "oBdXOvsUT2N0shkfC0GT6c22Z+Jh5DD9s6KM6/hdosI1zB3LBO87ex/DAVDyaNnClgj1xqZrTTaUgs8drP39zw==",
   "success": true,
   "projectFilePath": "C:\\Users\\versc\\source\\repos\\HouseApi\\HouseApi\\HouseApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\versc\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\versc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\versc\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\versc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\versc\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.6\\microsoft.data.sqlite.core.6.0.6.nupkg.sha512",
     "C:\\Users\\versc\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.6\\microsoft.entityframeworkcore.6.0.6.nupkg.sha512",
     "C:\\Users\\versc\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.6\\microsoft.entityframeworkcore.abstractions.6.0.6.nupkg.sha512",
